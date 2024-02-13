@@ -1,0 +1,65 @@
+.cadre-noir {
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-margin : 50px;
+}
+
+.button:hover {
+  -fx-cursor: hand;
+}
+
+.displayButton {
+  -fx-display: inline-block;
+  -fx-padding: 10px 20px;
+  -fx-border-color: black;
+  -fx-border-width: 1px;
+  -fx-font-size: 16px;
+  -fx-font-weight: bold;
+  -fx-text-align: center;
+  -fx-text-decoration: none;
+  -fx-border-radius: 8px;
+  -fx-background-radius: 8px;
+  -fx-background-color: #fffef0;
+  -fx-color: #fff;
+  -fx-border: none;
+  -fx-transition: background-color 0.3s ease;
+}
+
+.displayButton-2-players {
+  -fx-background-color: #5b6ee1;
+}
+
+.displayButton-3-players {
+  -fx-background-color: #6abe30;
+}
+
+.displayButton-4-players {
+  -fx-background-color: #df7126;
+}
+
+.displayButton:hover {
+  -fx-cursor: hand;
+  -fx-background-color: #e6e5d8;
+}
+
+.displayButton-2-players:hover {
+  -fx-cursor: hand;
+  -fx-background-color: #4a6aba;
+}
+
+.displayButton-3-players:hover {
+  -fx-cursor: hand;
+  -fx-background-color: #55a926;
+}
+
+.displayButton-4-players:hover {
+  -fx-cursor: hand;
+  -fx-background-color: #c26221;
+}
+
+
+
+
+
+
+
